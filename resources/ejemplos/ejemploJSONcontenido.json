@@ -1,0 +1,65 @@
+{
+	"contenido": [
+		{
+			"tipo": "videojuego",
+			"data": {
+				"id": "v1",
+				"titulo": "Elden Ring",
+				"valoracion": 9.81,
+				"seguidores": 203841,
+				"descripcion": "descripcion de ejemplo",
+				"generos": [
+					"ACCION",
+					"RPG",
+					"ALGOMAS"
+				],
+				"fecha": "25/02/2022",
+				"imagen": "URL de ejemplo",
+				"horasMin": 0,
+				"horasMax": 1000000,
+				"dlcs": [
+					"dlc1"
+				]
+			}
+		},
+		{
+			"tipo": "serie",
+			"data": {
+				"id": "s1",
+				"titulo": "serie1",
+				"valoracion": 0,
+				"seguidores": 0,
+				"descripcion": "descripcion de ejemplo",
+				"generos": [
+					"ACCION",
+					"ALGOMAS"
+				],
+				"fecha": "10/03/2022",
+				"imagen": "URL de ejemplo",
+				"capitulos": 12,
+				"duracionCap": 20,
+				"otrasTemp": [
+					"s2",
+					"s3"
+				]
+			}
+		}
+		{
+			"tipo": "pelicula",
+			"data": {
+				"id": "p1",
+				"titulo": "pelicula1",
+				"valoracion": 4.9,
+				"seguidores": 3829,
+				"descripcion": "descripcion de ejemplo2",
+				"generos": [
+					"COMEDIA"
+				],
+				"fecha": "10/03/2022",
+				"imagen": "URL de ejemplo",
+				"saga": "saga1",
+				"duracionMins": 126
+			}
+		}
+	]
+}
